@@ -4,14 +4,14 @@
 
 <h2>Some fun facts about me</h2>
 <ul>
-  <li>I like playing chess.</li>
+  <li>I like playing games.</li>
   <li>I procrastinate a lot, yes.</li>
   <li>Why are you even reading this idk what to type anymore.</li>
 </ul>
 
 <h2>Current Projects</h2>
 <ul>
-  <li><a href="https://epic-bot.com">EpicBot 🏅</a> - A simple, multipurpose Discord bot.</li>
+  <li><a href="https://nooder.gg">Nooder</a> - A simple, multipurpose Discord bot.</li>
 </ul>
 
 <h2>My stats</h2>
