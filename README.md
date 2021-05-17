@@ -13,6 +13,7 @@
 <ul>
   <li><a href="https://nooder.gg">Nooder</a> - A simple, multipurpose Discord bot.</li>
   <li><a href="https://creavite.xyz">Creavite</a> - A simple, wholesome Discord bot.</li>
+  <li><a href="#">Venoxity</a> - A simple, undecided featureless discord bot</li>
   <li><a href="https://honk.tazhys.gg">HONK AM GOOSE</a> - A simple, memes discord bot focused on the untitled goose game.</li>
 </ul>
 
