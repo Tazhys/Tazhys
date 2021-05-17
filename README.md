@@ -12,7 +12,8 @@
 <h2>Current Projects</h2>
 <ul>
   <li><a href="https://nooder.gg">Nooder</a> - A simple, multipurpose Discord bot.</li>
-  <li><a href="#">Creavite</a> - A simple, wholesome Discord bot.</li>
+  <li><a href="https://creavite.xyz">Creavite</a> - A simple, wholesome Discord bot.</li>
+  <li><a href="https://honk.tazhys.gg">HONK AM GOOSE</a> - A simple, memes discord bot focused on the untitled goose game.</li>
 </ul>
 
 <h2>My stats</h2>
