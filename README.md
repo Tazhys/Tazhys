@@ -11,9 +11,9 @@
 
 <h2>Current Projects</h2>
 <ul>
+  <li><a href="https://hostingly.gg">Hostingly</a> - A simple but yet quality free web-host</li>
+  <li><a href="https://vultrex.dev">Vultrex Development</a> - A group of developers making discord bots</li>
   <li><a href="https://nooder.gg">Nooder</a> - A simple, multipurpose Discord bot.</li>
-  <li><a href="https://creavite.xyz">Creavite</a> - A simple, wholesome Discord bot.</li>
-  <li><a href="#">Venoxity</a> - A simple, undecided featureless discord bot</li>
   <li><a href="https://honk.tazhys.gg">HONK AM GOOSE</a> - A simple, memes discord bot focused on the untitled goose game.</li>
 </ul>
 
@@ -26,10 +26,6 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <h2>Contact</h2>
 
