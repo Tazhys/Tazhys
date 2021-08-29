@@ -11,7 +11,6 @@
 
 <h2>Current Projects</h2>
 <ul>
-  <li><a href="https://hostingly.gg">Hostingly</a> - A simple but yet quality free web-host</li>
   <li><a href="https://vultrex.dev">Vultrex Development</a> - A group of developers making discord bots</li>
   <li><a href="https://nooder.gg">Nooder</a> - A simple, multipurpose Discord bot.</li>
   <li><a href="https://honk.tazhys.gg">HONK AM GOOSE</a> - A simple, memes discord bot focused on the untitled goose game.</li>
