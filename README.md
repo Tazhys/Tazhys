@@ -21,6 +21,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=tazhys&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tazhys&theme=radical&layout=compact">
 
-<center><a href="https://discord.com/users/622890595614195722">
-  <img src="https://lanyard-profile-readme.vercel.app/api/622890595614195722" width="480" height="276" />
-</a></center>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/622890595614195722
+                            )](https://discord.com/users/622890595614195722)
