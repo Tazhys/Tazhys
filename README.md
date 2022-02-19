@@ -13,10 +13,18 @@
 <ul>
   <li><a href="https://honk.gg">HONK AM GOOSE</a> - A simple, memes discord bot focused on the untitled goose game.</li>
   <li><a href="https://vultrex.dev">Vultrex Development</a> - A group of developers making discord bots</li>
-  <li><a href="https://nooder.gg">Nooder</a> - A simple, multipurpose Discord bot.</li>
+  <li><a href="https://nooder.bot">Nooder</a> - A simple, multipurpose Discord bot.</li>
 </ul>
 
 <h2>My stats</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=tazhys&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tazhys&theme=radical&layout=compact">
+
+<h2>Amazing People</h2>
+<ul>
+  <li>ItzMatt019</li>
+  <li>Mxmnt</li>
+  <li>RizonFTW</li>
+</ul>
+Thanks for being here with my derpy nonce lol ❤️
