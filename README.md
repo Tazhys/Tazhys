@@ -2,6 +2,8 @@
 
 <h3> I am Tazhys, I like to goof around sometimes. <img src="https://cdn.discordapp.com/emojis/762039243518115880.gif" height="20px"></h3>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/717434999116267566)](https://discord.com/users/622890595614195722)
+
 <h2>Some fun facts about me</h2>
 <ul>
   <li>I like playing games.</li>
@@ -20,7 +22,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=tazhys&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tazhys&theme=radical&layout=compact">
-[![Discord Presence](https://lanyard.cnrad.dev/api/717434999116267566)](https://discord.com/users/622890595614195722)
 
 <h2>Amazing People</h2>
 <ul>
