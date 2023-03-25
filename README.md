@@ -3,6 +3,7 @@
 <h3> I am Tazhys, I like to goof around sometimes. <img src="https://cdn.discordapp.com/emojis/762039243518115880.gif" height="20px"></h3>
 
 <h2>Some fun facts about me</h2>
+
 ```css
 [bonk@archlinux ~]$ neofetch
 
