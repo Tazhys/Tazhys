@@ -16,10 +16,26 @@
   <li><a href="https://nooder.bot">Nooder</a> - A simple, multipurpose Discord bot.</li>
 </ul>
 
-<h2>My stats</h2>
+```css
+[bonk@archlinux ~]$ neofetch
 
-<img src="https://github-readme-stats.vercel.app/api?username=tazhys&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tazhys&theme=radical&layout=compact">
+                    -@                    bonk@archlinux
+                   .##@                   -----------------
+                  .####@                  Username: Tazhys
+                  @#####@                 Twitch:  https://twitch.com/Tazhys
+                . *######@                Twitter: https://twitter.com/Tazhys
+               .##@o@#####@               Website: https://tazhys.gg
+              /############@            
+             /##############@             Infos: 20 y/o self-taught Developer Semi-Confident in JS & C#
+            @######@**%######@            
+           @######`     %#####o           
+          @######@       ######%          
+        -@#######h       ######@.`        
+       /#####h**``       `**%@####@       
+      @H@*`                    `*%#@    
+     *`                            `*     
+
+```
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/622890595614195722)](https://discord.com/users/622890595614195722)
 
