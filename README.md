@@ -2,7 +2,7 @@
 
 <h3> I am Tazhys, I like to goof around sometimes. <img src="https://cdn.discordapp.com/emojis/762039243518115880.gif" height="20px"></h3>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/717434999116267566)](https://discord.com/users/622890595614195722)
+[![Discord Presence](https://lanyard.cnrad.dev/api/622890595614195722)](https://discord.com/users/622890595614195722)
 
 <h2>Some fun facts about me</h2>
 <ul>
