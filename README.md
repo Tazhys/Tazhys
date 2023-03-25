@@ -32,8 +32,6 @@
   <li><a href="https://nooder.bot">Nooder</a> - A simple, multipurpose Discord bot.</li>
 </ul>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/622890595614195722)](https://discord.com/users/622890595614195722)
-
 <h2>Amazing People</h2>
 <ul>
   <li>ItzMatt019</li>
