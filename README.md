@@ -14,7 +14,7 @@
                 . *######@                Twitter: https://twitter.com/Tazhys
                .##@o@#####@               Website: https://tazhys.gg
               /############@            
-             /##############@             Infos: 20 y/o self-taught Developer Semi-Confident in JS & C#
+             /##############@             Information: 20 y/o self-taught Developer Semi-Confident in JS & C# who is Autistic & has ADHD.
             @######@**%######@            
            @######`     %#####o           
           @######@       ######%          
