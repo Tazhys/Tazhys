@@ -38,4 +38,6 @@
   <li>Mxmnt</li>
   <li>RizonFTW</li>
 </ul>
-Thanks for being here with my derpy nonce lol ❤️
+
+# Skid List
+- Emerald#4627 (Spamming Pedo @ everyone in a server full of people who use a tiny app)
