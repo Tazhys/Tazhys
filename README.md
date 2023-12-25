@@ -37,6 +37,8 @@
   <li>ItzMatt019</li>
   <li>Mxmnt</li>
   <li>RizonFTW</li>
+  <li>Jordywastaken</li>
+  <li>Execcl</li>
 </ul>
 
 # Skid List
