@@ -14,7 +14,7 @@
                 . *######@                Twitter: https://twitter.com/Tazhys
                .##@o@#####@               Website: https://tazhys.gg
               /############@            
-             /##############@             Information: 20 y/o self-taught Developer Semi-Confident in JS & C# & has ADHD
+             /##############@             Information: 21 y/o self-taught Developer Semi-Confident in JS. C++ & C# & has ADHD
             @######@**%######@            
            @######`     %#####o           
           @######@       ######%          
@@ -40,6 +40,3 @@
   <li>Jordywastaken</li>
   <li>Execcl</li>
 </ul>
-
-# Skid List
-- Emerald#4627 (Spamming Pedo @ everyone in a server full of people who use a tiny app)
