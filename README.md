@@ -1,62 +1,55 @@
-<h1 align="center">Hi there! <img src="https://cdn.discordapp.com/emojis/558719629967491094.gif" height="35px"></h1>
+<h1 align="center">Hello, World! <img src="https://cdn.discordapp.com/emojis/558719629967491094.gif" height="35px"></h1>
 
-<h3 align="center">I'm Tazhys, a self-taught developer with a knack for goofing around. <img src="https://cdn.discordapp.com/emojis/762039243518115880.gif" height="20px"></h3>
-
----
-
-## 🎉 About Me
-
-```css
-[bonk@archlinux ~]$ neofetch
-
-                    -@                    bonk@archlinux
-                   .##@                   -----------------
-                  .####@                  Username: Tazhys
-                  @#####@                 Twitch:  https://twitch.com/Tazhys
-                . *######@                Twitter: https://twitter.com/Tazhys
-               .##@o@#####@               Website: https://tazhys.gg
-              /############@            
-             /##############@             Info: 21 y/o self-taught Developer
-            @######@**%######@                  Semi-Confident in JS, C++, & C#
-           @######`     %#####o                 ADHD Chaos Enthusiast 🧠⚡
-          @######@       ######%          
-        -@#######h       ######@.`        
-       /#####h**``       `**%@####@       
-      @H@*`                    `*%#@    
-     *`                            `*     
-
-```
+<h3 align="center">I'm Tazhys, a curious developer who loves creating and experimenting. Sometimes it's genius, sometimes it's chaos. <img src="https://cdn.discordapp.com/emojis/762039243518115880.gif" height="20px"></h3>
 
 ---
 
-## 🚀 Current Projects
-Here are some of the exciting projects I'm working on:
+## 🧑‍💻 About Me
 
-- 🦢 [**HONK AM GOOSE**](https://discord.com/oauth2/authorize?client_id=705324559062007890)  
-  A fun, meme-based Discord bot inspired by *Untitled Goose Game*. Perfect for chaos lovers!  
-- 🛠️ [**Vultrex Development**](https://vultrex.dev)  
-  A collaborative group of developers crafting high-quality Discord bots.  
-- 🍜 [**Nooder**](https://nooderbot.com)  
-  A versatile, easy-to-use multipurpose Discord bot.  
+- 🎂 **21 years old**, fully self-taught developer with a deep passion for tech and learning.  
+- 💡 Currently improving my skills in **JavaScript, C++, and C#**.  
+- 🤹‍♂️ Loves multitasking, even if ADHD keeps things interesting.  
+- 🎮 Gamer, builder, and meme enthusiast with a mission to make coding fun and accessible!  
 
 ---
 
-## 🌟 Amazing People
-Shoutout to these incredible individuals for being awesome:
+## 🚧 Current Projects
+I work on a variety of fun and useful projects that bring joy, memes, and utility to the world:
 
-You know who you are, if you see this... I ❤️ You.
+- 🎉 **[HONK AM GOOSE](https://discord.com/oauth2/authorize?client_id=705324559062007890)**  
+  A quirky Discord bot inspired by the *Untitled Goose Game*, spreading fun and chaos in servers worldwide!  
 
----
+- 💻 **[Vultrex Development](https://vultrex.dev)**  
+  A community of developers creating high-quality, cutting-edge Discord bots for a variety of use cases.  
 
-## 🔗 Connect with Me!
-Want to reach out or just see what I’m up to? Here's where you can find me:
-
-- 🌐 Website: [tazhys.gg](https://tazhys.gg)  
-- 📺 Twitch: [Tazhys](https://twitch.com/Tazhys)  
-- 🐦 Twitter: [@Tazhys](https://twitter.com/Tazhys)  
+- 🛠️ **[Nooder](https://nooderbot.com)**  
+  A multipurpose Discord bot that's both practical and user-friendly. From moderation to memes, Nooder does it all!  
 
 ---
 
-> **"Coding is like solving puzzles, and I enjoy creating solutions—sometimes goofy, sometimes genius. Let’s build something amazing!"**
+## 🏆 Milestones
+- 🔧 Built several projects and bots that now help manage thousands of users.  
+- 💬 Helped others learn about coding and Discord bot development through mentoring and open-source contributions.  
+- 🌍 Part of a growing online network of incredible creators, developers, and communities.  
 
-Feel free to check out my repositories, contribute, or just say hi!
+---
+
+## 💌 Amazing People
+Big shoutout to everyone who's been part of this journey, from coding mentors to gaming buddies.  
+You know who you are. You're all amazing. ❤️  
+
+---
+
+## 🌐 Let's Connect!
+Want to collaborate, chat, or just drop a meme? Here's where you can find me:
+
+- 🌍 **Website:** [tazhys.gg](https://builtbytaz.com)  
+- 🎥 **Twitch:** [Tazhys](https://twitch.com/Tazhys)  
+- 🐦 **Twitter:** [@Tazhys](https://twitter.com/Tazhys)  
+- 📂 **Portfolio:** [Check out my GitHub repositories](https://github.com/Tazhys)  
+
+---
+
+> **"Coding isn't just a skill; it's a mindset. With every line of code, we can create tools, experiences, and joy. Let's make magic happen!"**
+
+Feel free to explore my repos, contribute, or drop me a message!
