@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎂 **21 years old**, fully self-taught developer with a deep passion for tech and learning.  
+- 🎂 **22 years old**, fully self-taught developer with a deep passion for tech and learning.  
 - 💡 Currently improving my skills in **JavaScript, C++, and C#**.  
 - 🤹‍♂️ Loves multitasking, even if ADHD keeps things interesting.  
 - 🎮 Gamer, builder, and meme enthusiast with a mission to make coding fun and accessible!  
